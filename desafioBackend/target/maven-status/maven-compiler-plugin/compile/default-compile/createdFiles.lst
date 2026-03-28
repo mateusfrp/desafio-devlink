@@ -1,0 +1,8 @@
+model\CustomerType.class
+model\Customer$CustomerType.class
+service\OrderService.class
+com\mycompany\desafiobackend\DesafioBackend.class
+model\Customer$Status.class
+model\Item.class
+model\Customer.class
+model\Order.class
